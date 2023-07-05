@@ -1,0 +1,14 @@
+
+{
+    "nombre": "Maria Estrella",
+    "edad": 35,
+    "esEstudiante": false,
+    "direccion":{
+        "calle": "16 de agosto",
+        "ciudad": "Santiago"
+    },
+    "telefonos": [
+        "809-582-7895",
+        "587-581-6444"
+    ]
+}
