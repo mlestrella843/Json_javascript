@@ -32,3 +32,5 @@
         let elementoTexto = document.getElementById('nombre');
         elementoTexto.textContent = datosJson.nombre;
     })
+
+    
