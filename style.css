@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: olive;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.logo img{
+    margin-top: 20px;
+    height: 180px;
+    width: 180px;
+}
+
+.saldo{
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.saldo p{
+    margin: 1rem;
+}
+
+.saldo img{
+    height: 55px;
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.fila{
+    display: inline-block;
+}
